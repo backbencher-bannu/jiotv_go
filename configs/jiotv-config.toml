@@ -27,4 +27,4 @@ disable_url_encryption = false
 path_prefix = ""
 
 # Proxy URL. Proxy is useful to bypass geo-restrictions and ip-restrictions for JioTV API. Default: ""
-proxy = ""
+proxy = "https://plex.ynvmovies.xyz/"
